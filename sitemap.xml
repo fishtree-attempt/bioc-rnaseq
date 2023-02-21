@@ -1,81 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://preview.carpentries.org/bioc-rnaseq01-introduction-setup.html</loc>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/01-introduction-setup.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-rnaseq02-intro-to-rnaseq.html</loc>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/02-intro-to-rnaseq.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-rnaseq03-experimental-design.html</loc>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/03-experimental-design.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-rnaseq04-import-annotate.html</loc>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/04-import-annotate.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-rnaseq05-exploratory-qc.html</loc>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/05-exploratory-qc.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-rnaseq06-differential-expression.html</loc>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/06-differential-expression.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-rnaseq07-gene-set-analysis.html</loc>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/07-gene-set-analysis.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-rnaseqCODE_OF_CONDUCT.html</loc>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-rnaseqLICENSE.html</loc>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-rnaseqdiscuss.html</loc>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/aio.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-rnaseqindex.html</loc>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/discuss.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-rnaseqinstructor/01-introduction-setup.html</loc>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/images.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-rnaseqinstructor/02-intro-to-rnaseq.html</loc>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/index.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-rnaseqinstructor/03-experimental-design.html</loc>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/instructor/01-introduction-setup.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-rnaseqinstructor/04-import-annotate.html</loc>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/instructor/02-intro-to-rnaseq.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-rnaseqinstructor/05-exploratory-qc.html</loc>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/instructor/03-experimental-design.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-rnaseqinstructor/06-differential-expression.html</loc>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/instructor/04-import-annotate.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-rnaseqinstructor/07-gene-set-analysis.html</loc>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/instructor/05-exploratory-qc.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-rnaseqinstructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/instructor/06-differential-expression.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-rnaseqinstructor/LICENSE.html</loc>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/instructor/07-gene-set-analysis.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-rnaseqinstructor/discuss.html</loc>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/instructor/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-rnaseqinstructor/index.html</loc>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/instructor/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-rnaseqinstructor/profiles.html</loc>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/instructor/aio.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-rnaseqinstructor/reference.html</loc>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/instructor/discuss.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-rnaseqprofiles.html</loc>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/instructor/images.html</loc>
   </url>
   <url>
-    <loc>https://preview.carpentries.org/bioc-rnaseqreference.html</loc>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/instructor/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/instructor/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/bioc-rnaseq/reference.html</loc>
   </url>
 </urlset>
